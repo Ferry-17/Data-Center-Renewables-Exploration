@@ -1,0 +1,440 @@
+"Net generation for other renewables"
+"https://www.eia.gov/electricity/data/browser/#/topic/0?agg=1,0,2&fuel=02&geo=vvvvvvvvvvvvo&sec=o3g&linechart=ELEC.GEN.AOR-US-99.A~ELEC.GEN.AOR-US-1.A~ELEC.GEN.AOR-US-94.A~ELEC.GEN.AOR-US-96.A~ELEC.GEN.AOR-US-97.A&columnchart=ELEC.GEN.AOR-US-99.A~ELEC.GEN.AOR-US-1.A~ELEC.GEN.AOR-US-94.A~ELEC.GEN.AOR-US-96.A~ELEC.GEN.AOR-US-97.A&map=ELEC.GEN.AOR-US-99.A&freq=A&ctype=linechart&ltype=pin&rtype=s&pin=&rse=0&maptype=0"
+"Thu Apr 16 2026 19:22:11 GMT-0400 (Bolivia Time)"
+"Source: U.S. Energy Information Administration"
+"description","units","source key","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024","2025"
+"Net generation for other renewables","thousand megawatthours",,,,,,,,,,,,,,,,,,,,,,,,,,
+"United States","thousand megawatthours","ELEC.GEN.AOR-US-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"United States : all sectors","thousand megawatthours","ELEC.GEN.AOR-US-99.A",70769,79109,79487,83067,87329,96525,105238,126101,144279,167173,193981,218333,253508,279213,295161,341633,386250,414292,440799,497738,563682,646025,650239,733567,821918
+"United States : electric power",,"ELEC.GEN.AOR-US-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"United States : electric utility","thousand megawatthours","ELEC.GEN.AOR-US-1.A",1666,3089,3421,3692,4945,6588,8953,11308,14617,17927,21933,28017,32417,34496,37485,42661,46111,49100,55188,69742,89249,103925,106543,123555,136918
+"United States : independent power producers","thousand megawatthours","ELEC.GEN.AOR-US-94.A",40593,44466,46060,48636,51708,59345,65751,85776,101860,120956,141954,160064,189045,212809,225820,267056,308338,333491,354823,398200,445396,512744,516694,582350,656870
+"United States : all commercial","thousand megawatthours","ELEC.GEN.AOR-US-96.A",1025,1065,1302,1575,1673,1619,1614,1555,1769,1714,2476,2545,2956,3232,3220,3226,3251,3214,3426,3347,3576,4854,4545,4441,4484
+"United States : all industrial","thousand megawatthours","ELEC.GEN.AOR-US-97.A",27485,30489,28704,29164,29003,28972,28919,27462,26033,26576,27619,27707,29091,28675,28635,28690,28550,28487,27361,26449,25461,24502,22456,23220,23646
+"New England","thousand megawatthours","ELEC.GEN.AOR-NEW-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"New England : all sectors","thousand megawatthours","ELEC.GEN.AOR-NEW-99.A",7559,7466,6928,6975,7444,7355,7919,7806,7698,8020,8015,8557,9487,9957,10208,10574,11308,11398,11095,11206,11583,12151,11419,12351,14591
+"New England : electric power",,"ELEC.GEN.AOR-NEW-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"New England : electric utility","thousand megawatthours","ELEC.GEN.AOR-NEW-1.A",273,187,234,227,245,329,610,647,553,641,574,664,869,883,890,872,858,787,830,712,686,678,572,588,653
+"New England : independent power producers","thousand megawatthours","ELEC.GEN.AOR-NEW-94.A",5146,4832,4727,4628,4993,5009,5211,5125,5370,5701,5352,5652,6282,7203,7900,8437,9214,9322,8935,9425,9973,10113,9692,10577,12760
+"New England : all commercial","thousand megawatthours","ELEC.GEN.AOR-NEW-96.A",127,125,123,110,122,122,123,100,106,102,104,136,175,193,168,187,205,179,155,142,137,575,528,513,499
+"New England : all industrial","thousand megawatthours","ELEC.GEN.AOR-NEW-97.A",2013,2322,1844,2010,2083,1895,1975,1933,1669,1577,1985,2105,2160,1678,1249,1077,1032,1110,1175,927,786,785,627,673,678
+"Connecticut","thousand megawatthours","ELEC.GEN.AOR-CT-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Connecticut : all sectors","thousand megawatthours","ELEC.GEN.AOR-CT-99.A",909,821,786,758,753,763,730,734,759,740,660,667,652,769,805,893,845,873,900,1008,1035,940,1022,1038,1361
+"Connecticut : electric power",,"ELEC.GEN.AOR-CT-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Connecticut : electric utility","thousand megawatthours","ELEC.GEN.AOR-CT-1.A",84,"--","--","--","--","--","--",0,"--","--","--","--","--",0,0,3,3,3,3,3,2,1,0,2,3
+"Connecticut : independent power producers","thousand megawatthours","ELEC.GEN.AOR-CT-94.A",825,821,786,758,753,763,730,734,759,740,660,667,626,748,801,891,841,869,892,1000,1029,933,1012,1030,1333
+"Connecticut : all commercial","thousand megawatthours","ELEC.GEN.AOR-CT-96.A","--","--","--","--","--","--","--","--","--","--","--","--",26,21,4,"--",1,1,5,4,3,6,5,6,25
+"Connecticut : all industrial","thousand megawatthours","ELEC.GEN.AOR-CT-97.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--",0,0,0,0,0,0,5,0,"NM"
+"Maine","thousand megawatthours","ELEC.GEN.AOR-ME-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Maine : all sectors","thousand megawatthours","ELEC.GEN.AOR-ME-99.A",3826,4044,3586,3598,4068,3968,4207,4058,3938,4152,4495,4665,4893,4492,4449,4455,5042,5058,4749,4517,4671,4963,4320,5035,6162
+"Maine : electric power",,"ELEC.GEN.AOR-ME-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Maine : electric utility","thousand megawatthours","ELEC.GEN.AOR-ME-1.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Maine : independent power producers","thousand megawatthours","ELEC.GEN.AOR-ME-94.A",1833,1666,1646,1602,2020,1991,2136,2027,2168,2477,2421,2468,2642,2724,3112,3290,3919,3885,3536,3561,3860,4150,3694,4361,5484
+"Maine : all commercial","thousand megawatthours","ELEC.GEN.AOR-ME-96.A",103,99,98,95,98,95,96,98,102,99,89,92,91,93,91,90,94,68,45,35,29,32,7,4,4
+"Maine : all industrial","thousand megawatthours","ELEC.GEN.AOR-ME-97.A",1889,2278,1842,1901,1950,1881,1975,1933,1668,1576,1985,2105,2160,1675,1246,1075,1029,1105,1169,921,782,780,618,669,674
+"Massachusetts","thousand megawatthours","ELEC.GEN.AOR-MA-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Massachusetts : all sectors","thousand megawatthours","ELEC.GEN.AOR-MA-99.A",1313,1272,1253,1230,1258,1279,1240,1255,1229,1274,1207,1277,1448,1730,1833,2030,2181,2369,2379,2649,2769,3087,3111,3221,3614
+"Massachusetts : electric power",,"ELEC.GEN.AOR-MA-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Massachusetts : electric utility","thousand megawatthours","ELEC.GEN.AOR-MA-1.A","--",0,"--","--","--","--","--",4,6,16,48,68,66,73,76,74,76,77,120,160,139,142,115,110,145
+"Massachusetts : independent power producers","thousand megawatthours","ELEC.GEN.AOR-MA-94.A",1289,1246,1229,1214,1234,1252,1214,1250,1220,1254,1145,1198,1366,1623,1725,1901,2047,2232,2197,2428,2570,2458,2520,2648,3042
+"Massachusetts : all commercial","thousand megawatthours","ELEC.GEN.AOR-MA-96.A",24,26,25,16,25,27,27,2,4,3,13,11,16,31,29,53,55,55,55,55,55,482,472,459,423
+"Massachusetts : all industrial","thousand megawatthours","ELEC.GEN.AOR-MA-97.A","--","--","--","--","--","--","--","--","--","--","--","--","--",3,3,1,3,5,6,5,5,5,4,4,5
+"New Hampshire","thousand megawatthours","ELEC.GEN.AOR-NH-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"New Hampshire : all sectors","thousand megawatthours","ELEC.GEN.AOR-NH-99.A",1026,865,796,883,942,746,1123,1175,1198,1232,1091,1381,1695,1952,2048,2122,2022,1793,1647,1393,1437,1339,1194,1113,1280
+"New Hampshire : electric power",,"ELEC.GEN.AOR-NH-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"New Hampshire : electric utility","thousand megawatthours","ELEC.GEN.AOR-NH-1.A","--","--","--","--","--",55,318,384,318,342,291,347,359,335,321,308,291,253,214,21,"--","--","--","--","--"
+"New Hampshire : independent power producers","thousand megawatthours","ELEC.GEN.AOR-NH-94.A",921,825,794,780,818,682,805,791,880,890,800,1003,1297,1579,1691,1778,1686,1495,1393,1334,1395,1294,1157,1076,1241
+"New Hampshire : all commercial","thousand megawatthours","ELEC.GEN.AOR-NH-96.A","--","--","--","--","--","--","--","--","--","--","--",31,40,38,35,36,45,45,40,38,42,45,37,36,38
+"New Hampshire : all industrial","thousand megawatthours","ELEC.GEN.AOR-NH-97.A",105,40,2,104,124,10,0,0,1,0,0,0,"--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Rhode Island","thousand megawatthours","ELEC.GEN.AOR-RI-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Rhode Island : all sectors","thousand megawatthours","ELEC.GEN.AOR-RI-99.A",104,98,102,102,0,149,155,158,145,140,130,102,53,226,236,246,366,399,469,615,664,789,839,975,1129
+"Rhode Island : electric power",,"ELEC.GEN.AOR-RI-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Rhode Island : electric utility","thousand megawatthours","ELEC.GEN.AOR-RI-1.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Rhode Island : independent power producers","thousand megawatthours","ELEC.GEN.AOR-RI-94.A",104,98,102,102,0,149,155,158,145,140,130,102,53,219,229,239,359,391,461,607,658,782,834,969,1122
+"Rhode Island : all commercial","thousand megawatthours","ELEC.GEN.AOR-RI-96.A","--","--","--","--","--","--","--","--","--","--","--","--","--",8,7,7,7,7,8,7,7,7,6,6,7
+"Rhode Island : all industrial","thousand megawatthours","ELEC.GEN.AOR-RI-97.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Vermont","thousand megawatthours","ELEC.GEN.AOR-VT-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Vermont : all sectors","thousand megawatthours","ELEC.GEN.AOR-VT-99.A",383,366,405,404,422,450,464,425,429,482,433,465,745,788,838,828,852,906,951,1026,1008,1034,934,970,1046
+"Vermont : electric power",,"ELEC.GEN.AOR-VT-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Vermont : electric utility","thousand megawatthours","ELEC.GEN.AOR-VT-1.A",189,187,234,227,245,273,292,260,230,282,235,249,444,475,494,487,487,454,493,529,544,536,457,476,505
+"Vermont : independent power producers","thousand megawatthours","ELEC.GEN.AOR-VT-94.A",174,175,171,172,168,173,171,166,199,200,196,214,298,310,342,338,363,450,456,495,462,496,476,492,539
+"Vermont : all commercial","thousand megawatthours","ELEC.GEN.AOR-VT-96.A","--","--","--","--","--","--","--","--","--","--",2,2,2,3,2,2,2,2,2,2,2,2,1,2,1
+"Vermont : all industrial","thousand megawatthours","ELEC.GEN.AOR-VT-97.A",19,4,"--",6,9,4,0,0,0,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Middle Atlantic","thousand megawatthours","ELEC.GEN.AOR-MAT-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Middle Atlantic : all sectors","thousand megawatthours","ELEC.GEN.AOR-MAT-99.A",4541,4717,4740,4993,5193,5986,6165,7028,8779,9910,9950,10932,13089,14063,13734,14104,14580,14280,14231,15182,14768,15839,16047,18865,23162
+"Middle Atlantic : electric power",,"ELEC.GEN.AOR-MAT-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Middle Atlantic : electric utility","thousand megawatthours","ELEC.GEN.AOR-MAT-1.A","--","--","--","--","--","--","--","--","--",0,19,41,215,310,63,82,80,76,79,77,115,119,358,127,147
+"Middle Atlantic : independent power producers","thousand megawatthours","ELEC.GEN.AOR-MAT-94.A",3705,3781,3820,4022,4206,5014,5267,6092,7601,8793,8766,9625,11522,12222,12227,12602,13009,12865,12939,13875,13438,13786,13903,16919,21171
+"Middle Atlantic : all commercial","thousand megawatthours","ELEC.GEN.AOR-MAT-96.A",245,252,242,248,251,247,245,241,394,388,476,544,569,648,681,633,693,644,642,636,618,1364,1298,1360,1358
+"Middle Atlantic : all industrial","thousand megawatthours","ELEC.GEN.AOR-MAT-97.A",590,684,678,723,736,725,653,694,783,728,689,722,783,882,764,787,798,694,570,595,597,571,489,459,486
+"New Jersey","thousand megawatthours","ELEC.GEN.AOR-NJ-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"New Jersey : all sectors","thousand megawatthours","ELEC.GEN.AOR-NJ-99.A",844,847,907,806,875,917,844,905,960,850,956,1281,1447,1536,1595,1838,1877,1948,1984,2061,2105,2204,2233,2272,2625
+"New Jersey : electric power",,"ELEC.GEN.AOR-NJ-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"New Jersey : electric utility","thousand megawatthours","ELEC.GEN.AOR-NJ-1.A","--","--","--","--","--","--","--","--","--",0,19,41,41,41,63,82,80,76,79,77,115,119,126,127,147
+"New Jersey : independent power producers","thousand megawatthours","ELEC.GEN.AOR-NJ-94.A",831,831,907,802,872,914,843,902,788,684,690,1044,1164,1217,1226,1439,1485,1588,1608,1693,1706,1594,1637,1670,1952
+"New Jersey : all commercial","thousand megawatthours","ELEC.GEN.AOR-NJ-96.A",1,3,0,2,0,0,0,2,172,166,246,194,241,276,304,312,305,279,289,284,278,485,465,471,519
+"New Jersey : all industrial","thousand megawatthours","ELEC.GEN.AOR-NJ-97.A",12,13,0,3,2,3,1,1,"--","--",0,1,1,1,1,6,8,5,7,8,7,6,6,5,6
+"New York","thousand megawatthours","ELEC.GEN.AOR-NY-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"New York : all sectors","thousand megawatthours","ELEC.GEN.AOR-NY-99.A",1801,1808,1735,1912,1988,2597,2775,3319,4467,4815,4896,5192,5888,6447,6319,6323,6605,6438,6926,7322,7219,8233,8663,10752,13629
+"New York : electric power",,"ELEC.GEN.AOR-NY-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"New York : electric utility","thousand megawatthours","ELEC.GEN.AOR-NY-1.A","--","--","--","--","--","--","--","--","--","--","--","--",175,269,"--","--","--","--","--","--","--","--",232,"--","--"
+"New York : independent power producers","thousand megawatthours","ELEC.GEN.AOR-NY-94.A",1490,1495,1432,1547,1616,2233,2424,2951,4065,4447,4559,4727,5254,5704,5886,5903,6182,6037,6528,6945,6843,7386,7649,9922,12846
+"New York : all commercial","thousand megawatthours","ELEC.GEN.AOR-NY-96.A",132,129,128,132,131,134,129,128,116,112,110,220,209,212,215,220,233,220,210,215,206,666,625,671,615
+"New York : all industrial","thousand megawatthours","ELEC.GEN.AOR-NY-97.A",180,184,176,233,241,229,222,239,286,255,226,246,251,262,218,200,189,180,188,163,170,180,157,159,168
+"Pennsylvania","thousand megawatthours","ELEC.GEN.AOR-PA-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Pennsylvania : all sectors","thousand megawatthours","ELEC.GEN.AOR-PA-99.A",1896,2062,2098,2276,2329,2473,2546,2804,3352,4245,4099,4459,5754,6080,5821,5942,6098,5894,5322,5799,5444,5403,5151,5841,6908
+"Pennsylvania : electric power",,"ELEC.GEN.AOR-PA-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Pennsylvania : electric utility","thousand megawatthours","ELEC.GEN.AOR-PA-1.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Pennsylvania : independent power producers","thousand megawatthours","ELEC.GEN.AOR-PA-94.A",1385,1455,1482,1674,1718,1867,1999,2239,2748,3662,3516,3854,5104,5301,5114,5260,5343,5240,4803,5238,4889,4805,4616,5327,6373
+"Pennsylvania : all commercial","thousand megawatthours","ELEC.GEN.AOR-PA-96.A",113,121,114,114,120,113,116,111,107,111,120,130,119,160,162,101,155,145,143,136,135,212,208,219,224
+"Pennsylvania : all industrial","thousand megawatthours","ELEC.GEN.AOR-PA-97.A",399,487,502,488,492,493,431,454,497,473,463,475,531,619,544,581,601,509,375,425,420,385,326,295,311
+"East North Central","thousand megawatthours","ELEC.GEN.AOR-ENC-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"East North Central : all sectors","thousand megawatthours","ELEC.GEN.AOR-ENC-99.A",4688,4226,5102,5059,4972,5236,5697,8515,10832,14390,17149,20666,24889,26651,28944,28958,31926,32376,36336,38900,46293,57427,55069,68488,82401
+"East North Central : electric power",,"ELEC.GEN.AOR-ENC-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"East North Central : electric utility","thousand megawatthours","ELEC.GEN.AOR-ENC-1.A",185,179,195,234,252,463,502,758,1081,1093,1137,1791,2795,2977,3700,3634,3710,3896,4628,5278,6587,8200,8565,12624,16863
+"East North Central : independent power producers","thousand megawatthours","ELEC.GEN.AOR-ENC-94.A",2709,2620,2800,2848,2720,2921,3310,5860,7917,11349,14107,16813,20072,21602,23292,23413,26393,26619,30040,32130,38245,47786,45278,54606,64261
+"East North Central : all commercial","thousand megawatthours","ELEC.GEN.AOR-ENC-96.A",54,168,170,204,203,186,198,191,218,228,194,235,191,270,274,220,232,242,175,159,163,157,131,129,143
+"East North Central : all industrial","thousand megawatthours","ELEC.GEN.AOR-ENC-97.A",1741,1259,1937,1773,1797,1666,1687,1706,1617,1721,1711,1828,1830,1801,1677,1691,1591,1618,1493,1334,1297,1283,1095,1129,1134
+"Illinois","thousand megawatthours","ELEC.GEN.AOR-IL-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Illinois : all sectors","thousand megawatthours","ELEC.GEN.AOR-IL-99.A",679,724,819,822,783,849,1285,3035,3530,5138,6865,8373,10285,10699,11323,11179,12794,12391,14934,16696,20011,25325,23961,28192,31757
+"Illinois : electric power",,"ELEC.GEN.AOR-IL-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Illinois : electric utility","thousand megawatthours","ELEC.GEN.AOR-IL-1.A",5,"--","--",6,8,16,20,4,3,8,11,14,4,13,34,37,38,105,128,138,173,112,95,88,796
+"Illinois : independent power producers","thousand megawatthours","ELEC.GEN.AOR-IL-94.A",598,653,745,738,697,833,1264,3030,3525,5130,6854,8358,10282,10682,11284,11138,12751,12279,14798,16552,19833,25208,23863,28095,30944
+"Illinois : all commercial","thousand megawatthours","ELEC.GEN.AOR-IL-96.A",8,5,0,0,1,0,1,0,1,0,0,0,0,4,5,5,5,8,8,6,5,5,3,6,9
+"Illinois : all industrial","thousand megawatthours","ELEC.GEN.AOR-IL-97.A",69,66,74,77,77,"--","--",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"NM",2,8
+"Indiana","thousand megawatthours","ELEC.GEN.AOR-IN-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Indiana : all sectors","thousand megawatthours","ELEC.GEN.AOR-IN-99.A",115,116,119,137,68,220,231,511,1706,3246,3621,3546,3888,3989,5118,5558,5840,6188,7001,7094,8859,11453,10953,13587,17215
+"Indiana : electric power",,"ELEC.GEN.AOR-IN-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Indiana : electric utility","thousand megawatthours","ELEC.GEN.AOR-IN-1.A","--","--","--","--","--",174,190,229,259,274,295,286,315,302,308,319,407,427,469,501,660,737,1134,2290,4005
+"Indiana : independent power producers","thousand megawatthours","ELEC.GEN.AOR-IN-94.A",89,89,85,86,20,"--","--",238,1403,2932,3284,3209,3511,3599,4716,5143,5332,5670,6447,6507,8118,10658,9774,11248,13160
+"Indiana : all commercial","thousand megawatthours","ELEC.GEN.AOR-IN-96.A",21,20,18,22,22,22,19,23,21,24,21,22,21,21,22,21,21,22,21,22,21,11,2,2,2
+"Indiana : all industrial","thousand megawatthours","ELEC.GEN.AOR-IN-97.A",4,7,16,29,26,24,22,21,22,15,20,29,41,67,71,75,80,69,64,64,60,47,43,47,48
+"Michigan","thousand megawatthours","ELEC.GEN.AOR-MI-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Michigan : all sectors","thousand megawatthours","ELEC.GEN.AOR-MI-99.A",2362,2220,2498,2558,2494,2443,2417,2591,2623,2832,2962,3785,5514,6674,7283,7200,7749,8106,8283,8992,10489,12268,11584,13635,15073
+"Michigan : electric power",,"ELEC.GEN.AOR-MI-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Michigan : electric utility","thousand megawatthours","ELEC.GEN.AOR-MI-1.A",0,0,0,"--","--","--",0,0,0,0,5,274,1190,1327,1976,1956,1899,2115,2399,3166,4093,5172,4822,5953,6557
+"Michigan : independent power producers","thousand megawatthours","ELEC.GEN.AOR-MI-94.A",1739,1610,1608,1644,1631,1648,1573,1759,1851,1985,2116,2510,3357,4393,4431,4395,5066,5176,5223,5234,5731,6435,6201,7049,7876
+"Michigan : all commercial","thousand megawatthours","ELEC.GEN.AOR-MI-96.A",5,127,137,153,151,155,167,129,154,160,158,196,146,195,201,146,135,129,56,46,46,43,42,44,45
+"Michigan : all industrial","thousand megawatthours","ELEC.GEN.AOR-MI-97.A",618,482,753,761,712,640,676,703,619,687,683,806,822,760,675,703,649,685,604,547,620,618,519,589,595
+"Ohio","thousand megawatthours","ELEC.GEN.AOR-OH-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Ohio : all sectors","thousand megawatthours","ELEC.GEN.AOR-OH-99.A",431,151,441,428,446,459,435,623,633,700,936,1739,2009,2026,2058,2033,2421,2576,2870,3127,3902,4605,4526,7115,11161
+"Ohio : electric power",,"ELEC.GEN.AOR-OH-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Ohio : electric utility","thousand megawatthours","ELEC.GEN.AOR-OH-1.A","--","--",1,0,13,14,15,15,14,15,16,20,28,28,27,23,23,19,18,16,14,12,12,11,17
+"Ohio : independent power producers","thousand megawatthours","ELEC.GEN.AOR-OH-94.A",67,66,76,72,67,62,42,212,221,302,536,1367,1619,1619,1673,1691,2089,2264,2536,2783,3561,4264,4250,6877,10911
+"Ohio : all commercial","thousand megawatthours","ELEC.GEN.AOR-OH-96.A",0,1,0,0,0,"--",0,"--","--","--","--",0,3,10,11,13,15,13,16,13,17,17,14,19,21
+"Ohio : all industrial","thousand megawatthours","ELEC.GEN.AOR-OH-97.A",364,84,363,355,365,383,378,397,398,383,384,352,359,369,347,306,293,280,300,314,310,312,249,208,211
+"Wisconsin","thousand megawatthours","ELEC.GEN.AOR-WI-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Wisconsin : all sectors","thousand megawatthours","ELEC.GEN.AOR-WI-99.A",1102,1016,1226,1114,1182,1266,1330,1754,2340,2474,2765,3223,3192,3262,3162,2988,3122,3114,3248,2992,3032,3775,4046,5959,7196
+"Wisconsin : electric power",,"ELEC.GEN.AOR-WI-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Wisconsin : electric utility","thousand megawatthours","ELEC.GEN.AOR-WI-1.A",181,179,194,228,230,259,277,510,805,796,810,1197,1259,1307,1355,1298,1342,1231,1614,1457,1648,2166,2503,4282,5489
+"Wisconsin : independent power producers","thousand megawatthours","ELEC.GEN.AOR-WI-94.A",216,202,285,307,304,378,432,620,917,999,1317,1370,1303,1309,1187,1047,1154,1231,1035,1055,1002,1222,1190,1336,1370
+"Wisconsin : all commercial","thousand megawatthours","ELEC.GEN.AOR-WI-96.A",20,15,14,29,30,8,11,39,42,43,15,16,22,41,36,35,57,69,74,72,76,80,70,58,66
+"Wisconsin : all industrial","thousand megawatthours","ELEC.GEN.AOR-WI-97.A",686,619,732,550,617,619,610,585,577,635,624,641,608,606,584,606,569,583,526,409,307,306,283,283,272
+"West North Central","thousand megawatthours","ELEC.GEN.AOR-WNC-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"West North Central : all sectors","thousand megawatthours","ELEC.GEN.AOR-WNC-99.A",2645,3307,3790,3777,5378,7365,9085,14236,21648,26420,33325,39730,46412,51532,54218,63417,75665,76235,85545,105140,119566,141512,130196,139829,143869
+"West North Central : electric power",,"ELEC.GEN.AOR-WNC-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"West North Central : electric utility","thousand megawatthours","ELEC.GEN.AOR-WNC-1.A",265,289,349,246,1008,1800,2452,3436,5653,7314,9852,12555,14287,15223,17933,21897,24783,24768,28594,36604,44032,52251,48823,52301,53148
+"West North Central : independent power producers","thousand megawatthours","ELEC.GEN.AOR-WNC-94.A",1749,2601,2827,2913,3737,4997,6075,10248,15423,18473,22844,26570,31481,35533,35497,40652,50011,50564,56047,67658,74524,88264,80452,86458,89682
+"West North Central : all commercial","thousand megawatthours","ELEC.GEN.AOR-WNC-96.A",34,28,45,55,56,59,51,48,47,55,78,83,101,143,135,173,174,187,177,168,229,265,180,191,224
+"West North Central : all industrial","thousand megawatthours","ELEC.GEN.AOR-WNC-97.A",598,389,569,564,577,508,507,503,525,578,552,521,543,633,652,695,698,716,726,710,782,732,741,879,814
+"Iowa","thousand megawatthours","ELEC.GEN.AOR-IA-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Iowa : all sectors","thousand megawatthours","ELEC.GEN.AOR-IA-99.A",592,1017,1096,1156,1764,2455,2908,4251,7589,9360,10870,14183,15727,16573,18131,20324,21587,21557,26536,34412,37525,46367,42170,45158,45233
+"Iowa : electric power",,"ELEC.GEN.AOR-IA-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Iowa : electric utility","thousand megawatthours","ELEC.GEN.AOR-IA-1.A",44,46,48,29,637,1137,1558,2393,3625,4440,5149,7479,8600,9059,10752,12793,14231,14857,18649,25242,28563,34490,30352,32439,32647
+"Iowa : independent power producers","thousand megawatthours","ELEC.GEN.AOR-IA-94.A",533,961,1023,1095,1092,1281,1322,1824,3916,4854,5671,6664,7075,7387,7272,7424,7283,6619,7787,9090,8886,11783,11738,12631,12516
+"Iowa : all commercial","thousand megawatthours","ELEC.GEN.AOR-IA-96.A",15,11,25,31,35,37,28,26,25,27,34,28,31,33,40,51,33,47,41,28,12,23,8,9,6
+"Iowa : all industrial","thousand megawatthours","ELEC.GEN.AOR-IA-97.A","--",0,"--","--","--","--","--",8,22,39,15,12,21,94,67,55,41,35,59,52,63,71,71,80,64
+"Kansas","thousand megawatthours","ELEC.GEN.AOR-KS-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Kansas : all sectors","thousand megawatthours","ELEC.GEN.AOR-KS-99.A",40,467,366,359,426,992,1153,1759,2863,3459,3779,5253,9491,10904,11062,14172,18661,18979,21198,24085,25813,29823,27420,29972,30169
+"Kansas : electric power",,"ELEC.GEN.AOR-KS-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Kansas : electric utility","thousand megawatthours","ELEC.GEN.AOR-KS-1.A","--","--",2,3,1,106,306,415,642,819,1018,852,917,902,883,830,1653,1902,1896,1845,2170,2117,2546,2741,2640
+"Kansas : independent power producers","thousand megawatthours","ELEC.GEN.AOR-KS-94.A",40,467,364,356,425,885,847,1344,2221,2641,2761,4401,8574,10006,10179,13342,16996,17065,19285,22225,23626,27676,24850,27207,27506
+"Kansas : all commercial","thousand megawatthours","ELEC.GEN.AOR-KS-96.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--",15,16,17,16,16,16,13,13,12
+"Kansas : all industrial","thousand megawatthours","ELEC.GEN.AOR-KS-97.A","--","--","--","--","--","--","--","--","--","--","--","--",0,-4,0,0,-3,-3,"--","--",3,13,11,12,11
+"Minnesota","thousand megawatthours","ELEC.GEN.AOR-MN-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Minnesota : all sectors","thousand megawatthours","ELEC.GEN.AOR-MN-99.A",1977,1787,2121,1797,2652,3059,3933,5851,6737,6640,8406,10015,9871,11457,11588,11836,13666,13400,13402,14621,15421,18179,17628,18232,19736
+"Minnesota : electric power",,"ELEC.GEN.AOR-MN-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Minnesota : electric utility","thousand megawatthours","ELEC.GEN.AOR-MN-1.A",217,229,221,137,237,231,291,322,683,867,1741,2016,2143,2302,2531,3063,3053,2751,2610,3186,3814,5222,6354,6665,7345
+"Minnesota : independent power producers","thousand megawatthours","ELEC.GEN.AOR-MN-94.A",1168,1167,1331,1101,1846,2320,3145,5046,5561,5234,6113,7462,7170,8557,8428,8086,9908,9915,10066,10721,10773,12177,10534,10695,11522
+"Minnesota : all commercial","thousand megawatthours","ELEC.GEN.AOR-MN-96.A",10,10,10,10,11,11,10,9,8,16,30,38,45,61,50,56,51,54,61,70,144,164,102,109,151
+"Minnesota : all industrial","thousand megawatthours","ELEC.GEN.AOR-MN-97.A",582,380,560,549,558,496,486,474,485,523,522,499,513,537,579,631,655,680,664,644,690,616,638,764,718
+"Missouri","thousand megawatthours","ELEC.GEN.AOR-MO-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Missouri : all sectors","thousand megawatthours","ELEC.GEN.AOR-MO-99.A",9,9,8,10,9,24,29,246,575,988,1240,1299,1241,1255,1179,1293,2233,3059,3078,3571,6774,7790,7049,7103,8181
+"Missouri : electric power",,"ELEC.GEN.AOR-MO-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Missouri : electric utility","thousand megawatthours","ELEC.GEN.AOR-MO-1.A",0,0,0,0,0,15,22,34,54,37,35,28,41,47,42,42,41,37,41,112,2372,3027,2855,2767,2905
+"Missouri : independent power producers","thousand megawatthours","ELEC.GEN.AOR-MO-94.A","--","--","--","--","--","--","--",203,514,947,1201,1266,1189,1173,1105,1199,2130,2967,2990,3414,4358,4717,4150,4284,5231
+"Missouri : all commercial","thousand megawatthours","ELEC.GEN.AOR-MO-96.A",0,0,0,"--","--","--","--","--","--","--","--","--",8,32,30,49,58,53,45,43,41,43,40,48,43
+"Missouri : all industrial","thousand megawatthours","ELEC.GEN.AOR-MO-97.A",9,9,8,9,9,9,7,9,7,4,4,5,3,3,3,3,3,3,2,3,3,3,3,3,3
+"Nebraska","thousand megawatthours","ELEC.GEN.AOR-NE-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Nebraska : all sectors","thousand megawatthours","ELEC.GEN.AOR-NE-99.A",19,21,95,78,139,313,278,275,449,493,1116,1347,1869,2801,3251,3900,5197,5670,7327,9259,9745,12776,12015,12169,12033
+"Nebraska : electric power",,"ELEC.GEN.AOR-NE-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Nebraska : electric utility","thousand megawatthours","ELEC.GEN.AOR-NE-1.A",3,8,65,65,121,299,263,259,265,267,280,258,268,273,272,272,246,247,400,410,175,171,167,150,181
+"Nebraska : independent power producers","thousand megawatthours","ELEC.GEN.AOR-NE-94.A",8,6,19,0,7,3,3,4,169,214,822,1072,1583,2511,2963,3610,4933,5407,6914,8837,9555,12588,11830,12006,11841
+"Nebraska : all commercial","thousand megawatthours","ELEC.GEN.AOR-NE-96.A",8,7,10,13,11,11,12,13,14,12,14,17,18,17,16,18,17,15,13,12,15,18,18,13,11
+"Nebraska : all industrial","thousand megawatthours","ELEC.GEN.AOR-NE-97.A","--","--","--","--","--","--","--","--","--","--","--","--",0,0,0,0,0,0,0,0,0,0,0,0,0
+"North Dakota","thousand megawatthours","ELEC.GEN.AOR-ND-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"North Dakota : all sectors","thousand megawatthours","ELEC.GEN.AOR-ND-99.A",8,0,59,220,230,373,634,1706,3009,4108,5245,5280,5524,6205,6509,8178,11361,10734,11213,13634,14937,16250,14477,14763,15378
+"North Dakota : electric power",,"ELEC.GEN.AOR-ND-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"North Dakota : electric utility","thousand megawatthours","ELEC.GEN.AOR-ND-1.A","--","--",7,6,5,6,7,7,372,879,1120,1256,1707,1953,2622,3905,4651,4127,4317,5141,5455,5624,5155,5114,4858
+"North Dakota : independent power producers","thousand megawatthours","ELEC.GEN.AOR-ND-94.A","--","--",52,209,215,363,614,1687,2625,3216,4116,4019,3812,4250,3883,4267,6708,6604,6896,8493,9480,10626,9321,9648,10520
+"North Dakota : all commercial","thousand megawatthours","ELEC.GEN.AOR-ND-96.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","NM",0,0,0,0,"--","--","--"
+"North Dakota : all industrial","thousand megawatthours","ELEC.GEN.AOR-ND-97.A",8,0,1,6,10,4,14,13,12,12,10,6,5,3,4,6,2,1,0,1,2,0,0,0,0
+"South Dakota","thousand megawatthours","ELEC.GEN.AOR-SD-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"South Dakota : all sectors","thousand megawatthours","ELEC.GEN.AOR-SD-99.A",1,6,44,158,158,149,150,147,427,1372,2668,2354,2688,2336,2498,3715,2960,2837,2791,5558,9351,10326,9439,12432,13137
+"South Dakota : electric power",,"ELEC.GEN.AOR-SD-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"South Dakota : electric utility","thousand megawatthours","ELEC.GEN.AOR-SD-1.A",1,6,5,5,6,6,5,7,11,5,509,667,610,686,831,991,908,849,682,668,1483,1600,1395,2426,2571
+"South Dakota : independent power producers","thousand megawatthours","ELEC.GEN.AOR-SD-94.A","--","--",39,153,152,143,145,140,416,1367,2160,1687,2078,1650,1667,2724,2052,1988,2109,4878,7846,8697,8028,9987,10547
+"South Dakota : all commercial","thousand megawatthours","ELEC.GEN.AOR-SD-96.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"South Dakota : all industrial","thousand megawatthours","ELEC.GEN.AOR-SD-97.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--",0,12,23,29,17,20,19
+"South Atlantic","thousand megawatthours","ELEC.GEN.AOR-SAT-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"South Atlantic : all sectors","thousand megawatthours","ELEC.GEN.AOR-SAT-99.A",11574,15759,13950,14374,14496,14747,14771,14689,14642,15494,16621,17334,19023,21502,23017,25689,31101,34921,37353,43553,51215,58161,60851,69604,81882
+"South Atlantic : electric power",,"ELEC.GEN.AOR-SAT-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"South Atlantic : electric utility","thousand megawatthours","ELEC.GEN.AOR-SAT-1.A",130,144,156,416,966,972,972,960,910,957,1027,1056,1393,1911,1948,2266,3551,5108,6213,8720,12654,15792,18491,22811,28879
+"South Atlantic : independent power producers","thousand megawatthours","ELEC.GEN.AOR-SAT-94.A",3115,3695,4257,4319,3845,4021,4040,4313,4703,5392,6008,6784,7348,9257,9958,12559,16505,18830,20550,24535,28319,31985,33468,37373,44173
+"South Atlantic : all commercial","thousand megawatthours","ELEC.GEN.AOR-SAT-96.A",279,197,256,332,353,306,326,317,287,288,305,241,445,484,466,512,532,495,459,437,570,1107,1056,944,1004
+"South Atlantic : all industrial","thousand megawatthours","ELEC.GEN.AOR-SAT-97.A",8049,11724,9281,9307,9332,9449,9434,9098,8743,8857,9281,9253,9837,9850,10644,10353,10513,10488,10131,9861,9672,9278,7835,8475,7826
+"Delaware","thousand megawatthours","ELEC.GEN.AOR-DE-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Delaware : all sectors","thousand megawatthours","ELEC.GEN.AOR-DE-99.A","--","--","--","--","--",0,48,163,126,138,158,131,107,131,130,124,118,114,120,131,136,147,226,210,223
+"Delaware : electric power",,"ELEC.GEN.AOR-DE-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Delaware : electric utility","thousand megawatthours","ELEC.GEN.AOR-DE-1.A","--","--","--","--","--","--","--","--","--","--",0,2,2,6,7,7,6,6,7,6,6,7,7,7,7
+"Delaware : independent power producers","thousand megawatthours","ELEC.GEN.AOR-DE-94.A","--","--","--","--","--",0,48,163,126,138,153,125,100,101,101,94,92,90,98,108,112,113,199,178,186
+"Delaware : all commercial","thousand megawatthours","ELEC.GEN.AOR-DE-96.A","--","--","--","--","--","--","--","--","--","--",5,4,4,7,6,7,6,6,6,6,6,7,7,5,8
+"Delaware : all industrial","thousand megawatthours","ELEC.GEN.AOR-DE-97.A","--","--","--","--","--","--","--","--","--","--","--","--","--",17,16,16,13,12,10,12,11,21,13,21,22
+"District Of Columbia","thousand megawatthours","ELEC.GEN.AOR-DC-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"District Of Columbia : all sectors","thousand megawatthours","ELEC.GEN.AOR-DC-99.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--",31,53,47,57,64,68,74,80,83,88,101
+"District Of Columbia : electric power",,"ELEC.GEN.AOR-DC-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"District Of Columbia : electric utility","thousand megawatthours","ELEC.GEN.AOR-DC-1.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--",0,3,1,"NM"
+"District Of Columbia : independent power producers","thousand megawatthours","ELEC.GEN.AOR-DC-94.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--",31,53,"--","--",9,13,18,22,21,30,48
+"District Of Columbia : all commercial","thousand megawatthours","ELEC.GEN.AOR-DC-96.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--",47,57,55,55,56,58,58,56,50
+"District Of Columbia : all industrial","thousand megawatthours","ELEC.GEN.AOR-DC-97.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Florida","thousand megawatthours","ELEC.GEN.AOR-FL-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Florida : all sectors","thousand megawatthours","ELEC.GEN.AOR-FL-99.A",3790,3740,4474,4502,4327,4331,4303,4303,4340,4487,4670,4524,4659,5073,5143,4867,5886,7497,8351,10535,13277,15348,17183,21615,28185
+"Florida : electric power",,"ELEC.GEN.AOR-FL-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Florida : electric utility","thousand megawatthours","ELEC.GEN.AOR-FL-1.A",115,123,131,124,108,79,73,84,96,127,188,243,262,288,278,247,1175,2680,4065,6229,8790,11129,13478,17752,22941
+"Florida : independent power producers","thousand megawatthours","ELEC.GEN.AOR-FL-94.A",1890,2160,2453,2402,2388,2459,2411,2244,2272,2369,2371,2243,2221,2784,2709,2544,2694,2824,2365,2498,2488,2076,1994,2185,3548
+"Florida : all commercial","thousand megawatthours","ELEC.GEN.AOR-FL-96.A",39,40,13,40,39,35,39,44,40,40,39,37,34,34,46,51,47,51,50,25,178,459,457,403,414
+"Florida : all industrial","thousand megawatthours","ELEC.GEN.AOR-FL-97.A",1746,1416,1877,1935,1793,1757,1780,1931,1932,1951,2073,2001,2141,1967,2110,2025,1969,1942,1870,1783,1820,1684,1254,1274,1282
+"Georgia","thousand megawatthours","ELEC.GEN.AOR-GA-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Georgia : all sectors","thousand megawatthours","ELEC.GEN.AOR-GA-99.A",3003,6381,3173,3192,3272,3419,3415,2782,2825,3181,3190,3279,3839,4283,4863,5454,7005,6994,7536,9635,10714,12674,12501,14551,15974
+"Georgia : electric power",,"ELEC.GEN.AOR-GA-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Georgia : electric utility","thousand megawatthours","ELEC.GEN.AOR-GA-1.A","--","--","--","--","--","--","--","--","--",0,0,0,0,1,4,107,252,293,312,353,589,688,640,503,562
+"Georgia : independent power producers","thousand megawatthours","ELEC.GEN.AOR-GA-94.A",19,19,17,18,16,15,13,31,30,151,165,219,512,740,802,1489,2762,2583,3052,5197,6182,8100,8707,10465,12287
+"Georgia : all commercial","thousand megawatthours","ELEC.GEN.AOR-GA-96.A","--","--","--","--","--","--","--","--",21,20,23,29,26,27,11,6,3,2,3,3,2,2,2,2,5
+"Georgia : all industrial","thousand megawatthours","ELEC.GEN.AOR-GA-97.A",2983,6363,3156,3174,3256,3404,3403,2751,2774,3009,3001,3030,3301,3515,4047,3852,3987,4116,4169,4081,3940,3885,3153,3581,3121
+"Maryland","thousand megawatthours","ELEC.GEN.AOR-MD-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Maryland : all sectors","thousand megawatthours","ELEC.GEN.AOR-MD-99.A",373,522,596,589,623,626,603,612,551,574,822,898,941,989,1068,1281,1365,1488,1405,1410,1524,1524,1746,1927,2311
+"Maryland : electric power",,"ELEC.GEN.AOR-MD-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Maryland : electric utility","thousand megawatthours","ELEC.GEN.AOR-MD-1.A","--","--","--","--","--","--","--","--","--",0,0,3,9,9,8,9,9,8,9,8,8,8,8,7,9
+"Maryland : independent power producers","thousand megawatthours","ELEC.GEN.AOR-MD-94.A",343,339,351,357,376,393,384,391,360,385,616,717,773,817,938,1137,1225,1360,1315,1371,1491,1489,1715,1907,2285
+"Maryland : all commercial","thousand megawatthours","ELEC.GEN.AOR-MD-96.A",30,9,31,49,53,32,28,40,32,40,55,36,33,25,21,23,15,27,33,32,25,26,24,13,18
+"Maryland : all industrial","thousand megawatthours","ELEC.GEN.AOR-MD-97.A","--",174,214,183,194,201,192,181,160,149,150,141,126,138,100,112,116,93,49,"--","--","--","--","--","--"
+"North Carolina","thousand megawatthours","ELEC.GEN.AOR-NC-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"North Carolina : all sectors","thousand megawatthours","ELEC.GEN.AOR-NC-99.A",1751,1786,1976,1733,1807,1828,1672,1922,1893,2083,2345,2704,2955,3276,3963,5983,8397,9263,10524,11281,12660,13636,13680,13828,15227
+"North Carolina : electric power",,"ELEC.GEN.AOR-NC-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"North Carolina : electric utility","thousand megawatthours","ELEC.GEN.AOR-NC-1.A","--","--","--","--","--","--","--","--",2,5,10,4,7,6,12,211,410,387,450,574,762,796,1075,1058,1120
+"North Carolina : independent power producers","thousand megawatthours","ELEC.GEN.AOR-NC-94.A",443,442,460,473,477,536,518,522,626,772,986,1362,1512,1977,2470,4307,6464,7429,8727,9301,10543,11575,11475,11750,13001
+"North Carolina : all commercial","thousand megawatthours","ELEC.GEN.AOR-NC-96.A","--","--","--","--","--","--","--","--","--","--","--",4,118,157,153,199,208,188,168,167,167,118,106,100,113
+"North Carolina : all industrial","thousand megawatthours","ELEC.GEN.AOR-NC-97.A",1309,1344,1516,1259,1331,1292,1154,1401,1266,1306,1350,1334,1318,1136,1328,1265,1315,1259,1179,1238,1189,1147,1024,920,993
+"South Carolina","thousand megawatthours","ELEC.GEN.AOR-SC-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"South Carolina : all sectors","thousand megawatthours","ELEC.GEN.AOR-SC-99.A",894,1244,1296,1763,1814,1910,1996,1816,1748,1873,2129,2143,2226,2442,2294,2381,2479,2802,3027,3797,4284,4414,4504,4753,4887
+"South Carolina : electric power",,"ELEC.GEN.AOR-SC-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"South Carolina : electric utility","thousand megawatthours","ELEC.GEN.AOR-SC-1.A","--",16,22,239,317,410,440,369,372,403,410,458,439,468,437,420,410,385,90,78,66,64,74,59,54
+"South Carolina : independent power producers","thousand megawatthours","ELEC.GEN.AOR-SC-94.A","--","--","--","--","--","--","--",9,25,23,22,40,86,328,410,414,489,905,1543,2358,2860,3040,3161,3264,3685
+"South Carolina : all commercial","thousand megawatthours","ELEC.GEN.AOR-SC-96.A",28,"--",30,46,44,45,37,33,22,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"South Carolina : all industrial","thousand megawatthours","ELEC.GEN.AOR-SC-97.A",866,1229,1244,1478,1453,1455,1520,1405,1329,1448,1698,1646,1702,1647,1446,1547,1580,1512,1393,1361,1358,1310,1268,1429,1149
+"Virginia","thousand megawatthours","ELEC.GEN.AOR-VA-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Virginia : all sectors","thousand megawatthours","ELEC.GEN.AOR-VA-99.A",1747,2071,2261,2432,2498,2458,2566,2698,2418,2220,2196,2358,2906,3852,4144,4113,4122,4936,4696,4791,6912,8322,8830,10436,12714
+"Virginia : electric power",,"ELEC.GEN.AOR-VA-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Virginia : electric utility","thousand megawatthours","ELEC.GEN.AOR-VA-1.A",0,0,0,51,540,483,459,507,441,423,419,345,674,1133,1202,1264,1289,1348,1280,1472,2434,3100,3206,3393,4122
+"Virginia : independent power producers","thousand megawatthours","ELEC.GEN.AOR-VA-94.A",420,727,806,907,434,443,498,561,523,614,585,782,753,1054,1116,1088,1097,1869,1810,1785,2989,3553,4098,5427,6937
+"Virginia : all commercial","thousand megawatthours","ELEC.GEN.AOR-VA-96.A",182,148,182,198,218,194,222,200,172,188,183,130,230,234,229,226,205,164,144,150,135,437,402,365,396
+"Virginia : all industrial","thousand megawatthours","ELEC.GEN.AOR-VA-97.A",1145,1197,1273,1277,1306,1339,1386,1430,1282,995,1009,1101,1249,1431,1597,1535,1531,1554,1461,1385,1353,1232,1123,1251,1259
+"West Virginia","thousand megawatthours","ELEC.GEN.AOR-WV-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"West Virginia : all sectors","thousand megawatthours","ELEC.GEN.AOR-WV-99.A",16,15,174,163,155,174,168,392,742,939,1112,1297,1391,1456,1381,1432,1682,1770,1631,1904,1634,2017,2099,2196,2260
+"West Virginia : electric power",,"ELEC.GEN.AOR-WV-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"West Virginia : electric utility","thousand megawatthours","ELEC.GEN.AOR-WV-1.A",16,5,4,2,1,0,0,-0,-1,0,0,-0,"--","--","--","--","--","--","--","--","--","--","--",30,63
+"West Virginia : independent power producers","thousand megawatthours","ELEC.GEN.AOR-WV-94.A","--",9,170,161,154,174,168,392,742,939,1112,1297,1391,1456,1381,1432,1682,1770,1631,1904,1634,2017,2099,2166,2197
+"West Virginia : all commercial","thousand megawatthours","ELEC.GEN.AOR-WV-96.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"West Virginia : all industrial","thousand megawatthours","ELEC.GEN.AOR-WV-97.A","--",1,0,"--","--",0,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"East South Central","thousand megawatthours","ELEC.GEN.AOR-ESC-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"East South Central : all sectors","thousand megawatthours","ELEC.GEN.AOR-ESC-99.A",6453,5848,5824,6535,6356,6695,6730,6174,5788,5309,5779,5455,5761,5876,6363,6417,6767,7230,7162,7017,7124,7506,8347,10100,13061
+"East South Central : electric power",,"ELEC.GEN.AOR-ESC-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"East South Central : electric utility","thousand megawatthours","ELEC.GEN.AOR-ESC-1.A","--",4,4,61,65,92,96,111,99,90,96,96,99,90,85,103,146,163,155,168,172,203,334,319,379
+"East South Central : independent power producers","thousand megawatthours","ELEC.GEN.AOR-ESC-94.A",251,243,210,203,229,282,276,239,326,325,312,307,355,422,471,517,714,1129,1180,1272,1391,2150,2811,4578,7417
+"East South Central : all commercial","thousand megawatthours","ELEC.GEN.AOR-ESC-96.A",9,3,"--","--","--","--","--","--","--","--","--","NM",2,3,3,3,4,4,5,5,4,7,5,5,7
+"East South Central : all industrial","thousand megawatthours","ELEC.GEN.AOR-ESC-97.A",6193,5599,5610,6271,6061,6321,6358,5824,5363,4894,5371,5050,5305,5361,5804,5794,5903,5933,5822,5572,5557,5147,5197,5198,5258
+"Alabama","thousand megawatthours","ELEC.GEN.AOR-AL-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Alabama : all sectors","thousand megawatthours","ELEC.GEN.AOR-AL-99.A",4189,3746,3673,3779,3647,3884,3801,3357,3050,2377,2817,2777,2876,2779,3289,3367,3606,3804,3742,3675,3805,4085,4371,4522,4590
+"Alabama : electric power",,"ELEC.GEN.AOR-AL-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Alabama : electric utility","thousand megawatthours","ELEC.GEN.AOR-AL-1.A","--","--","--","--","--","--",0,4,2,1,1,1,"--",1,0,0,24,31,23,27,24,25,25,77,86
+"Alabama : independent power producers","thousand megawatthours","ELEC.GEN.AOR-AL-94.A",217,209,182,183,202,206,209,163,246,260,231,190,199,244,256,296,389,507,402,379,514,912,1217,1215,1283
+"Alabama : all commercial","thousand megawatthours","ELEC.GEN.AOR-AL-96.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Alabama : all industrial","thousand megawatthours","ELEC.GEN.AOR-AL-97.A",3972,3537,3491,3596,3445,3678,3591,3190,2802,2116,2585,2586,2677,2534,3034,3071,3193,3266,3317,3269,3267,3147,3129,3230,3222
+"Kentucky","thousand megawatthours","ELEC.GEN.AOR-KY-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Kentucky : all sectors","thousand megawatthours","ELEC.GEN.AOR-KY-99.A",10,365,299,411,421,459,466,460,364,440,436,333,327,448,441,477,515,470,419,390,461,494,573,671,1982
+"Kentucky : electric power",,"ELEC.GEN.AOR-KY-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Kentucky : electric utility","thousand megawatthours","ELEC.GEN.AOR-KY-1.A","--","--",0,57,62,88,93,105,96,89,95,95,98,88,85,103,122,131,132,141,145,133,124,129,133
+"Kentucky : independent power producers","thousand megawatthours","ELEC.GEN.AOR-KY-94.A","--","--","--","--","--","--","--","--","--","--","--","--",0,5,7,14,12,10,11,17,16,17,119,244,1537
+"Kentucky : all commercial","thousand megawatthours","ELEC.GEN.AOR-KY-96.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--",3,1,2,"NM"
+"Kentucky : all industrial","thousand megawatthours","ELEC.GEN.AOR-KY-97.A",10,365,299,354,359,371,372,355,267,351,342,238,228,354,349,360,380,329,276,233,300,343,329,296,311
+"Mississippi","thousand megawatthours","ELEC.GEN.AOR-MS-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Mississippi : all sectors","thousand megawatthours","ELEC.GEN.AOR-MS-99.A",1432,937,1022,1514,1522,1541,1493,1391,1424,1504,1506,1509,1448,1508,1507,1524,1563,1765,1718,1847,1791,1801,1972,3319,4701
+"Mississippi : electric power",,"ELEC.GEN.AOR-MS-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Mississippi : electric utility","thousand megawatthours","ELEC.GEN.AOR-MS-1.A","--","--","--","--","--","--","--",0,"--",0,0,0,0,1,0,0,"--","--","--","--","--",42,182,111,158
+"Mississippi : independent power producers","thousand megawatthours","ELEC.GEN.AOR-MS-94.A","--","--","--","--","--","--","--","--","--",2,0,3,12,13,13,10,98,338,335,441,436,471,459,1934,3224
+"Mississippi : all commercial","thousand megawatthours","ELEC.GEN.AOR-MS-96.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Mississippi : all industrial","thousand megawatthours","ELEC.GEN.AOR-MS-97.A",1432,937,1022,1514,1522,1541,1493,1391,1424,1503,1506,1506,1436,1494,1494,1514,1465,1427,1382,1406,1356,1288,1332,1274,1319
+"Tennessee","thousand megawatthours","ELEC.GEN.AOR-TN-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Tennessee : all sectors","thousand megawatthours","ELEC.GEN.AOR-TN-99.A",822,800,830,830,766,811,971,965,950,988,1020,836,1110,1141,1126,1050,1083,1191,1283,1104,1066,1126,1430,1589,1788
+"Tennessee : electric power",,"ELEC.GEN.AOR-TN-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Tennessee : electric utility","thousand megawatthours","ELEC.GEN.AOR-TN-1.A","--",4,4,4,3,4,2,2,0,0,0,0,0,0,0,0,0,1,0,0,3,3,3,2,3
+"Tennessee : independent power producers","thousand megawatthours","ELEC.GEN.AOR-TN-94.A",34,33,28,20,27,76,67,76,80,63,81,114,144,160,195,198,214,274,431,435,426,750,1016,1185,1374
+"Tennessee : all commercial","thousand megawatthours","ELEC.GEN.AOR-TN-96.A",9,3,"--","--","--","--","--","--","--","--","--","NM",2,3,3,3,4,4,5,5,4,4,3,4,5
+"Tennessee : all industrial","thousand megawatthours","ELEC.GEN.AOR-TN-97.A",779,760,798,806,735,731,901,888,870,924,939,720,964,978,928,849,865,911,847,664,634,369,407,398,406
+"West South Central","thousand megawatthours","ELEC.GEN.AOR-WSC-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"West South Central : all sectors","thousand megawatthours","ELEC.GEN.AOR-WSC-99.A",6628,8610,9210,9846,11095,14513,17020,24412,27983,35957,42213,46628,53653,58681,65190,84653,98966,112403,122620,135547,152219,180499,190432,210660,238146
+"West South Central : electric power",,"ELEC.GEN.AOR-WSC-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"West South Central : electric utility","thousand megawatthours","ELEC.GEN.AOR-WSC-1.A",-0,2,3,2,1,4,359,431,390,706,794,1912,1951,1960,1833,1712,1612,1701,1815,1721,2189,3386,7481,9977,11491
+"West South Central : independent power producers","thousand megawatthours","ELEC.GEN.AOR-WSC-94.A",1299,2898,3076,4019,5378,8687,10922,18657,22831,29910,36075,39392,46107,51259,58452,77507,92060,105502,116043,129520,145938,173120,179194,197057,222208
+"West South Central : all commercial","thousand megawatthours","ELEC.GEN.AOR-WSC-96.A",15,17,42,32,35,39,40,39,37,44,43,41,42,64,70,90,83,94,82,74,76,62,46,50,33
+"West South Central : all industrial","thousand megawatthours","ELEC.GEN.AOR-WSC-97.A",5314,5693,6088,5793,5681,5784,5699,5285,4725,5297,5300,5282,5553,5399,4834,5345,5211,5106,4680,4232,4016,3931,3711,3576,4414
+"Arkansas","thousand megawatthours","ELEC.GEN.AOR-AR-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Arkansas : all sectors","thousand megawatthours","ELEC.GEN.AOR-AR-99.A",1512,1585,1844,1810,1736,1723,1624,1513,1586,1624,1668,1660,1601,1530,1442,1396,1467,1569,1545,1205,1321,1578,1511,3121,5640
+"Arkansas : electric power",,"ELEC.GEN.AOR-AR-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Arkansas : electric utility","thousand megawatthours","ELEC.GEN.AOR-AR-1.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--",2,2,2,2,2,6,254,241,501,1505
+"Arkansas : independent power producers","thousand megawatthours","ELEC.GEN.AOR-AR-94.A","--","--",90,29,23,28,39,42,52,52,76,65,100,98,86,133,128,271,288,326,491,505,561,1834,3302
+"Arkansas : all commercial","thousand megawatthours","ELEC.GEN.AOR-AR-96.A",5,5,5,4,4,3,2,3,2,5,5,6,5,5,4,5,6,6,14,23,23,20,19,17,7
+"Arkansas : all industrial","thousand megawatthours","ELEC.GEN.AOR-AR-97.A",1507,1581,1749,1778,1709,1692,1583,1468,1531,1567,1587,1590,1496,1428,1352,1257,1332,1291,1242,854,800,799,690,769,826
+"Louisiana","thousand megawatthours","ELEC.GEN.AOR-LA-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Louisiana : all sectors","thousand megawatthours","ELEC.GEN.AOR-LA-99.A",2704,2810,3078,2966,2887,2962,2980,2710,2364,2468,2443,2430,2787,2780,2705,2876,2741,2609,2250,2155,2286,2273,2280,3176,4414
+"Louisiana : electric power",,"ELEC.GEN.AOR-LA-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Louisiana : electric utility","thousand megawatthours","ELEC.GEN.AOR-LA-1.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--",2,2,2,4,35,41,40,28,36
+"Louisiana : independent power producers","thousand megawatthours","ELEC.GEN.AOR-LA-94.A",60,59,61,73,76,76,75,70,66,73,70,60,73,85,89,80,88,79,83,92,195,235,335,1248,2454
+"Louisiana : all commercial","thousand megawatthours","ELEC.GEN.AOR-LA-96.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Louisiana : all industrial","thousand megawatthours","ELEC.GEN.AOR-LA-97.A",2644,2751,3018,2893,2811,2886,2905,2640,2298,2394,2372,2370,2714,2694,2616,2796,2651,2528,2165,2059,2056,1997,1904,1900,1924
+"Oklahoma","thousand megawatthours","ELEC.GEN.AOR-OK-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Oklahoma : all sectors","thousand megawatthours","ELEC.GEN.AOR-OK-99.A",231,239,322,823,1137,2010,2129,2551,2929,4160,5919,8521,11506,12275,14369,20437,23930,27729,29378,29833,32935,37946,37356,38610,39070
+"Oklahoma : electric power",,"ELEC.GEN.AOR-OK-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Oklahoma : electric utility","thousand megawatthours","ELEC.GEN.AOR-OK-1.A","--","--","--","--","--",3,358,430,389,705,660,1594,1630,1646,1427,1436,1401,1401,1475,1397,1758,2452,6743,6911,6741
+"Oklahoma : independent power producers","thousand megawatthours","ELEC.GEN.AOR-OK-94.A","--","--",54,573,848,1709,1491,1934,2310,3103,4945,6564,9550,10307,12618,18653,22249,26022,27613,28102,30878,35198,30365,31384,32030
+"Oklahoma : all commercial","thousand megawatthours","ELEC.GEN.AOR-OK-96.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--",-9,-7,-3,-1
+"Oklahoma : all industrial","thousand megawatthours","ELEC.GEN.AOR-OK-97.A",231,239,267,250,289,297,280,187,231,352,314,363,326,323,324,348,280,307,291,334,299,304,256,317,301
+"Texas","thousand megawatthours","ELEC.GEN.AOR-TX-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Texas : all sectors","thousand megawatthours","ELEC.GEN.AOR-TX-99.A",2181,3975,3966,4247,5336,7818,10288,17639,21104,27705,32183,34017,37760,42096,46674,59944,70827,80496,89447,102353,115677,138702,149285,165753,189021
+"Texas : electric power",,"ELEC.GEN.AOR-TX-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Texas : electric utility","thousand megawatthours","ELEC.GEN.AOR-TX-1.A",-0,2,3,2,1,0,1,1,1,1,134,319,321,314,406,274,207,297,337,318,390,639,457,2536,3210
+"Texas : independent power producers","thousand megawatthours","ELEC.GEN.AOR-TX-94.A",1239,2839,2871,3344,4431,6873,9317,16612,20403,26681,30984,32704,36385,40770,45659,58641,69595,79130,88058,101000,114374,137182,147932,162591,184422
+"Texas : all commercial","thousand megawatthours","ELEC.GEN.AOR-TX-96.A",10,12,37,28,31,35,38,36,35,39,38,36,37,59,66,85,77,88,68,51,53,51,35,35,27
+"Texas : all industrial","thousand megawatthours","ELEC.GEN.AOR-TX-97.A",932,1122,1054,873,872,909,931,990,665,984,1027,958,1017,953,543,944,949,980,983,985,859,831,861,590,1362
+"Mountain","thousand megawatthours","ELEC.GEN.AOR-MTN-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Mountain : all sectors","thousand megawatthours","ELEC.GEN.AOR-MTN-99.A",2493,2612,2654,3552,4484,5756,6282,9316,11333,14084,19305,22677,26836,29594,29642,38116,43485,46478,49611,57105,69644,80791,83476,99112,111932
+"Mountain : electric power",,"ELEC.GEN.AOR-MTN-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Mountain : electric utility","thousand megawatthours","ELEC.GEN.AOR-MTN-1.A",242,347,314,326,317,314,277,403,1470,1937,2636,2700,3208,3284,3124,3517,3720,4213,5912,7489,13598,15647,14764,16555,17114
+"Mountain : independent power producers","thousand megawatthours","ELEC.GEN.AOR-MTN-94.A",1653,1763,1811,2687,3620,4890,5459,8412,9362,11635,16185,19510,23146,25844,26005,34077,39304,41742,42739,48131,55044,64627,68184,82045,94175
+"Mountain : all commercial","thousand megawatthours","ELEC.GEN.AOR-MTN-96.A",37,4,4,0,4,13,30,4,4,4,60,64,74,75,110,132,128,150,576,585,629,121,121,116,125
+"Mountain : all industrial","thousand megawatthours","ELEC.GEN.AOR-MTN-97.A",561,498,525,539,544,539,516,497,497,507,424,403,408,390,404,391,333,373,383,901,373,395,408,397,518
+"Arizona","thousand megawatthours","ELEC.GEN.AOR-AZ-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Arizona : all sectors","thousand megawatthours","ELEC.GEN.AOR-AZ-99.A",39,54,45,48,74,54,42,114,202,319,529,1698,2733,3840,4135,4522,5683,5890,6063,6704,8521,8838,9365,13546,18977
+"Arizona : electric power",,"ELEC.GEN.AOR-AZ-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Arizona : electric utility","thousand megawatthours","ELEC.GEN.AOR-AZ-1.A",34,50,41,48,58,41,37,34,32,37,65,188,302,421,532,497,626,681,741,713,732,697,593,1038,1030
+"Arizona : independent power producers","thousand megawatthours","ELEC.GEN.AOR-AZ-94.A","--",0,"--","--",12,8,"--",76,166,278,457,1502,2411,3396,3581,4000,5034,5196,5306,5979,7770,8099,8718,12458,17895
+"Arizona : all commercial","thousand megawatthours","ELEC.GEN.AOR-AZ-96.A",5,4,4,0,4,4,4,4,4,4,7,8,20,24,22,24,23,13,16,12,19,23,20,16,20
+"Arizona : all industrial","thousand megawatthours","ELEC.GEN.AOR-AZ-97.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--",19,34,34,32
+"Colorado","thousand megawatthours","ELEC.GEN.AOR-CO-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Colorado : all sectors","thousand megawatthours","ELEC.GEN.AOR-CO-99.A",113,169,179,255,811,896,1325,3284,3246,3555,5367,6192,7536,7747,7807,10122,10435,10972,12233,15056,17025,19474,19840,22629,22779
+"Colorado : electric power",,"ELEC.GEN.AOR-CO-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Colorado : electric utility","thousand megawatthours","ELEC.GEN.AOR-CO-1.A",39,60,58,68,59,62,59,70,59,67,73,74,172,171,135,139,297,513,2288,2948,4286,4514,4256,4433,4098
+"Colorado : independent power producers","thousand megawatthours","ELEC.GEN.AOR-CO-94.A",42,109,120,187,752,834,1266,3214,3187,3487,5273,6093,7342,7560,7653,9962,10121,10443,9925,12089,12726,14950,15568,18159,18644
+"Colorado : all commercial","thousand megawatthours","ELEC.GEN.AOR-CO-96.A",32,"--","--","--","--","--","--","--","--",0,18,21,19,13,17,17,14,13,17,17,10,8,8,6,8
+"Colorado : all industrial","thousand megawatthours","ELEC.GEN.AOR-CO-97.A","--","--","--","--","--","--","--","--","--",0,3,3,3,3,3,3,3,3,3,3,3,2,8,30,29
+"Idaho","thousand megawatthours","ELEC.GEN.AOR-ID-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Idaho : all sectors","thousand megawatthours","ELEC.GEN.AOR-ID-99.A",533,508,541,560,560,690,653,748,867,1014,1892,2515,3152,3477,2947,3212,3554,3785,3721,3948,3828,3527,3706,4531,5311
+"Idaho : electric power",,"ELEC.GEN.AOR-ID-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Idaho : electric utility","thousand megawatthours","ELEC.GEN.AOR-ID-1.A","--","--","--","--","--","--","--","--","--","--","--",70,144,173,12,11,183,174,178,201,189,181,435,445,462
+"Idaho : independent power producers","thousand megawatthours","ELEC.GEN.AOR-ID-94.A",38,73,87,84,88,246,248,362,465,606,1472,2048,2610,2928,2549,2825,3053,3253,3160,3358,3263,2970,2906,3753,4416
+"Idaho : all commercial","thousand megawatthours","ELEC.GEN.AOR-ID-96.A","--","--","--","--","--","--","--","--","--","--","--","--","--",5,9,11,12,11,25,29,31,30,31,37,36
+"Idaho : all industrial","thousand megawatthours","ELEC.GEN.AOR-ID-97.A",495,435,454,476,472,444,405,386,402,408,420,397,398,371,377,365,306,346,358,360,345,345,335,295,397
+"Montana","thousand megawatthours","ELEC.GEN.AOR-MT-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Montana : all sectors","thousand megawatthours","ELEC.GEN.AOR-MT-99.A",65,63,71,62,72,530,607,704,916,1027,1265,1262,1760,1987,1986,2160,2190,2209,2423,3125,3538,4081,4825,6216,6638
+"Montana : electric power",,"ELEC.GEN.AOR-MT-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Montana : electric utility","thousand megawatthours","ELEC.GEN.AOR-MT-1.A","--","--","--","--","--","--","--","--",68,68,99,101,237,233,217,231,225,242,250,297,931,1074,959,1747,1990
+"Montana : independent power producers","thousand megawatthours","ELEC.GEN.AOR-MT-94.A","--","--","--","--","--",436,496,593,753,862,1166,1161,1517,1741,1748,1909,1944,1945,2153,2806,2587,2988,3846,4449,4622
+"Montana : all commercial","thousand megawatthours","ELEC.GEN.AOR-MT-96.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Montana : all industrial","thousand megawatthours","ELEC.GEN.AOR-MT-97.A",65,63,71,62,72,94,111,111,95,97,"--","--",5,13,21,20,21,21,20,21,21,19,20,21,26
+"Nevada","thousand megawatthours","ELEC.GEN.AOR-NV-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Nevada : all sectors","thousand megawatthours","ELEC.GEN.AOR-NV-99.A",1200,1127,1066,1298,1263,1344,1297,1539,1808,2287,2437,2969,3690,4067,5103,6877,7857,8546,9103,9715,10893,13311,14192,16712,17919
+"Nevada : electric power",,"ELEC.GEN.AOR-NV-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Nevada : electric utility","thousand megawatthours","ELEC.GEN.AOR-NV-1.A","--","--","--","--","--","--","--","--",1,0,0,0,0,0,2,51,40,41,170,194,185,193,177,418,500
+"Nevada : independent power producers","thousand megawatthours","ELEC.GEN.AOR-NV-94.A",1200,1127,1066,1298,1263,1344,1297,1539,1808,2285,2404,2934,3656,4033,5054,6762,7748,8406,8424,9004,10151,13060,13955,16236,17352
+"Nevada : all commercial","thousand megawatthours","ELEC.GEN.AOR-NV-96.A","--","--","--","--","--","--","--","--","--","--",32,32,32,31,45,61,66,97,506,512,553,47,47,47,56
+"Nevada : all industrial","thousand megawatthours","ELEC.GEN.AOR-NV-97.A","--","--","--","--","--","--","--",0,0,2,1,3,3,3,3,3,3,3,2,4,4,11,12,10,12
+"New Mexico","thousand megawatthours","ELEC.GEN.AOR-NM-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"New Mexico : all sectors","thousand megawatthours","ELEC.GEN.AOR-NM-99.A",19,19,183,513,799,1277,1409,1662,1580,1855,2242,2574,2600,2813,2734,4389,5818,7474,8339,9051,12407,16480,17576,19474,20393
+"New Mexico : electric power",,"ELEC.GEN.AOR-NM-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"New Mexico : electric utility","thousand megawatthours","ELEC.GEN.AOR-NM-1.A","--","--","--","--","--","--","--","--","--","--","--",48,57,103,158,250,252,264,317,397,2727,3161,3142,3393,3108
+"New Mexico : independent power producers","thousand megawatthours","ELEC.GEN.AOR-NM-94.A",19,19,183,513,799,1277,1409,1662,1580,1855,2238,2522,2540,2707,2573,4136,5563,7208,8019,8653,9678,13317,14433,16080,17279
+"New Mexico : all commercial","thousand megawatthours","ELEC.GEN.AOR-NM-96.A","--","--","--","--","--","--","--","--","--","--",3,4,3,3,3,3,3,3,3,1,2,2,1,0,"NM"
+"New Mexico : all industrial","thousand megawatthours","ELEC.GEN.AOR-NM-97.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Utah","thousand megawatthours","ELEC.GEN.AOR-UT-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Utah : all sectors","thousand megawatthours","ELEC.GEN.AOR-UT-99.A",158,224,204,199,189,205,195,302,487,781,961,1100,932,1256,1172,2445,3628,3543,3386,3828,4805,5114,5163,6581,6894
+"Utah : electric power",,"ELEC.GEN.AOR-UT-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Utah : electric utility","thousand megawatthours","ELEC.GEN.AOR-UT-1.A",153,218,198,195,185,191,164,254,279,274,278,269,251,275,260,257,249,223,115,176,211,270,255,306,312
+"Utah : independent power producers","thousand megawatthours","ELEC.GEN.AOR-UT-94.A",5,6,5,4,4,6,6,48,207,507,683,831,681,981,898,2172,3369,3307,3262,3639,4579,4833,4894,6259,6560
+"Utah : all commercial","thousand megawatthours","ELEC.GEN.AOR-UT-96.A","--","--","--","--","--",9,25,"--","--","--","--","--","--","--",15,16,10,14,9,13,14,11,14,9,0
+"Utah : all industrial","thousand megawatthours","ELEC.GEN.AOR-UT-97.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--",0,7,22
+"Wyoming","thousand megawatthours","ELEC.GEN.AOR-WY-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Wyoming : all sectors","thousand megawatthours","ELEC.GEN.AOR-WY-99.A",365,447,366,617,717,759,755,963,2226,3247,4612,4369,4433,4406,3757,4389,4321,4058,4343,5678,8627,9966,8810,9425,13022
+"Wyoming : electric power",,"ELEC.GEN.AOR-WY-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Wyoming : electric utility","thousand megawatthours","ELEC.GEN.AOR-WY-1.A",16,19,16,15,15,20,17,45,1030,1491,2120,1951,2045,1908,1808,2080,1848,2074,1853,2564,4337,5556,4945,4774,5615
+"Wyoming : independent power producers","thousand megawatthours","ELEC.GEN.AOR-WY-94.A",349,428,351,602,702,739,738,918,1196,1756,2491,2418,2389,2498,1949,2309,2473,1984,2490,2601,4290,4410,3865,4651,7406
+"Wyoming : all commercial","thousand megawatthours","ELEC.GEN.AOR-WY-96.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
+"Wyoming : all industrial","thousand megawatthours","ELEC.GEN.AOR-WY-97.A","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--",513,"--","--","--","--","--"
+"Pacific Contiguous","thousand megawatthours","ELEC.GEN.AOR-PCC-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Pacific Contiguous : all sectors","thousand megawatthours","ELEC.GEN.AOR-PCC-99.A",23690,26180,26756,27397,27368,28247,30804,33145,34857,36824,40727,45388,53034,59938,62413,68145,70944,77570,75577,82578,89468,90294,92484,102537,110702
+"Pacific Contiguous : electric power",,"ELEC.GEN.AOR-PCC-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Pacific Contiguous : electric utility","thousand megawatthours","ELEC.GEN.AOR-PCC-1.A",568,1935,2164,2178,2089,2613,3686,4562,4451,5175,5746,7160,7472,7711,7725,8389,7463,8197,6775,8788,9026,7471,6996,8087,8073
+"Pacific Contiguous : independent power producers","thousand megawatthours","ELEC.GEN.AOR-PCC-94.A",20595,21791,22015,22638,22620,23105,24613,26243,27815,28914,31737,34748,41888,48555,51090,56234,60043,65952,65488,70532,77112,79457,82145,91081,99208
+"Pacific Contiguous : all commercial","thousand megawatthours","ELEC.GEN.AOR-PCC-96.A",225,272,420,416,485,457,432,430,496,431,1054,1046,1128,1101,1073,1029,968,975,934,941,949,987,991,934,904
+"Pacific Contiguous : all industrial","thousand megawatthours","ELEC.GEN.AOR-PCC-97.A",2302,2183,2157,2166,2174,2072,2072,1910,2094,2303,2190,2434,2546,2572,2524,2493,2470,2446,2380,2318,2382,2380,2352,2434,2517
+"California","thousand megawatthours","ELEC.GEN.AOR-CA-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"California : all sectors","thousand megawatthours","ELEC.GEN.AOR-CA-99.A",21630,23407,23545,23971,23654,23915,24845,24784,25540,25450,27222,29967,35578,41917,45395,49712,54544,58632,58921,60871,66585,69916,71348,79350,87015
+"California : electric power",,"ELEC.GEN.AOR-CA-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"California : electric utility","thousand megawatthours","ELEC.GEN.AOR-CA-1.A",210,1334,1340,1306,1207,1292,1358,1471,1452,1629,1658,2105,2214,2292,2178,2221,2163,2249,1967,2078,2153,1855,1490,1751,2024
+"California : independent power producers","thousand megawatthours","ELEC.GEN.AOR-CA-94.A",19948,20641,20650,21285,21078,21309,22196,22241,22929,22751,23858,26055,31514,37907,41668,45909,50804,54786,55307,57098,62747,66167,67939,75614,82936
+"California : all commercial","thousand megawatthours","ELEC.GEN.AOR-CA-96.A",225,272,420,416,485,457,420,409,478,410,1031,1024,1100,1064,1032,981,927,933,892,891,899,945,953,891,858
+"California : all industrial","thousand megawatthours","ELEC.GEN.AOR-CA-97.A",1247,1160,1136,964,885,857,871,663,681,661,675,783,750,653,517,602,650,665,756,804,785,949,966,1095,1196
+"Oregon","thousand megawatthours","ELEC.GEN.AOR-OR-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Oregon : all sectors","thousand megawatthours","ELEC.GEN.AOR-OR-99.A",840,1049,1083,1115,1601,1829,2228,3423,4272,4757,5490,7207,8635,8914,7950,8382,7576,9233,8392,11008,12025,10921,11955,12776,13356
+"Oregon : electric power",,"ELEC.GEN.AOR-OR-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Oregon : electric utility","thousand megawatthours","ELEC.GEN.AOR-OR-1.A",0,0,35,35,32,101,341,819,662,599,789,1369,1467,1428,1308,1334,1120,1308,1148,1552,1817,1346,1532,1646,1496
+"Oregon : independent power producers","thousand megawatthours","ELEC.GEN.AOR-OR-94.A",466,656,788,670,1097,1205,1236,2082,3136,3674,4314,5344,6603,6832,5996,6507,5897,7359,6719,8928,9656,9031,9866,10474,11214
+"Oregon : all commercial","thousand megawatthours","ELEC.GEN.AOR-OR-96.A","--","--","--","--","--","--",12,22,18,21,24,22,22,20,26,32,31,29,27,36,39,32,31,33,35
+"Oregon : all industrial","thousand megawatthours","ELEC.GEN.AOR-OR-97.A",374,393,259,410,471,522,639,501,456,462,363,472,543,633,621,510,528,536,499,491,513,513,526,623,610
+"Washington","thousand megawatthours","ELEC.GEN.AOR-WA-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Washington : all sectors","thousand megawatthours","ELEC.GEN.AOR-WA-99.A",1221,1724,2128,2311,2114,2503,3731,4938,5045,6617,8014,8214,8822,9108,9067,10050,8824,9705,8263,10700,10859,9457,9181,10410,10331
+"Washington : electric power",,"ELEC.GEN.AOR-WA-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Washington : electric utility","thousand megawatthours","ELEC.GEN.AOR-WA-1.A",358,601,789,836,850,1220,1987,2272,2337,2947,3298,3687,3792,3990,4239,4835,4180,4641,3660,5158,5056,4270,3974,4691,4552
+"Washington : independent power producers","thousand megawatthours","ELEC.GEN.AOR-WA-94.A",182,494,577,683,446,591,1181,1920,1750,2490,3565,3348,3771,3816,3427,3819,3343,3807,3462,4505,4709,4258,4340,4993,5058
+"Washington : all commercial","thousand megawatthours","ELEC.GEN.AOR-WA-96.A","--","--","--","--","--","--","--","--","--","--","--",0,7,17,16,16,10,13,15,13,11,10,7,10,11
+"Washington : all industrial","thousand megawatthours","ELEC.GEN.AOR-WA-97.A",681,629,762,792,818,693,563,747,958,1180,1151,1179,1253,1285,1386,1381,1292,1245,1126,1023,1084,918,860,716,711
+"Pacific Noncontiguous","thousand megawatthours","ELEC.GEN.AOR-PCN-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Pacific Noncontiguous : all sectors","thousand megawatthours","ELEC.GEN.AOR-PCN-99.A",497,383,533,559,544,625,765,782,718,766,897,965,1324,1420,1433,1560,1508,1403,1269,1510,1802,1846,1918,2020,2170
+"Pacific Noncontiguous : electric power",,"ELEC.GEN.AOR-PCN-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Pacific Noncontiguous : electric utility","thousand megawatthours","ELEC.GEN.AOR-PCN-1.A",3,2,2,1,2,2,0,0,10,14,51,41,127,147,182,190,190,190,186,186,191,180,158,166,168
+"Pacific Noncontiguous : independent power producers","thousand megawatthours","ELEC.GEN.AOR-PCN-94.A",371,243,517,360,360,420,578,586,511,463,568,662,844,914,927,1056,1086,966,862,1122,1410,1456,1569,1655,1814
+"Pacific Noncontiguous : all commercial","thousand megawatthours","ELEC.GEN.AOR-PCN-96.A","--","--",1,179,163,190,169,184,180,174,161,153,228,250,240,247,231,244,220,202,201,210,190,199,187
+"Pacific Noncontiguous : all industrial","thousand megawatthours","ELEC.GEN.AOR-PCN-97.A",124,138,14,19,18,14,17,11,17,114,116,109,125,110,84,66,1,3,1,0,0,0,0,0,"NM"
+"Alaska","thousand megawatthours","ELEC.GEN.AOR-AK-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Alaska : all sectors","thousand megawatthours","ELEC.GEN.AOR-AK-99.A",1,12,6,9,6,7,11,5,14,19,16,40,197,214,215,212,185,200,180,168,170,180,150,174,184
+"Alaska : electric power",,"ELEC.GEN.AOR-AK-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Alaska : electric utility","thousand megawatthours","ELEC.GEN.AOR-AK-1.A",1,"--","--","--",1,1,"--",0,7,13,12,19,99,100,105,109,91,99,89,77,87,81,61,70,80
+"Alaska : independent power producers","thousand megawatthours","ELEC.GEN.AOR-AK-94.A","--",1,"--","--","--","--",1,"--","--","--","--",18,46,52,55,60,50,56,53,51,45,58,50,61,63
+"Alaska : all commercial","thousand megawatthours","ELEC.GEN.AOR-AK-96.A","--","--",1,0,0,1,0,0,"--","--","--",0,46,56,50,43,42,43,37,39,38,41,39,43,40
+"Alaska : all industrial","thousand megawatthours","ELEC.GEN.AOR-AK-97.A","--",11,5,9,5,6,10,5,7,6,3,3,6,6,5,1,1,3,1,0,0,0,0,0,"NM"
+"Hawaii","thousand megawatthours","ELEC.GEN.AOR-HI-99.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Hawaii : all sectors","thousand megawatthours","ELEC.GEN.AOR-HI-99.A",496,371,527,550,538,618,753,777,705,747,881,925,1127,1206,1218,1347,1322,1202,1089,1342,1632,1666,1767,1846,1986
+"Hawaii : electric power",,"ELEC.GEN.AOR-HI-98.A",,,,,,,,,,,,,,,,,,,,,,,,,
+"Hawaii : electric utility","thousand megawatthours","ELEC.GEN.AOR-HI-1.A",2,2,2,1,2,1,0,0,3,2,39,22,29,47,77,81,98,91,97,109,104,99,97,96,89
+"Hawaii : independent power producers","thousand megawatthours","ELEC.GEN.AOR-HI-94.A",371,242,517,360,360,420,577,586,511,463,568,644,798,861,873,995,1035,910,809,1071,1365,1398,1519,1594,1751
+"Hawaii : all commercial","thousand megawatthours","ELEC.GEN.AOR-HI-96.A","--","--","--",178,163,189,169,184,180,174,161,153,183,194,189,205,189,201,183,163,163,169,151,156,146
+"Hawaii : all industrial","thousand megawatthours","ELEC.GEN.AOR-HI-97.A",124,127,9,10,13,7,7,6,10,107,112,106,118,103,79,66,"--","--","--","--","--","--","--","--","--"
