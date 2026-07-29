@@ -133,10 +133,12 @@ Subquestions: Which states have the highest sampled data center power capacity? 
 Do states with larger sample data center power capacity tend to have lower or higher retail electricity prices? I observed a negative correlation between these two variables which is unexpected and may reflect the limitations. Typically data center power demand places more strain on the grid, draining supply and therefore increasing the price of retail electricity. 
 Are states with larger electricity systems also the states with greater sample data center power capacity? Data Center power capacity and total generation do not have a strong correlation of .05. Electricty price and total power generation are the two variables with the strongest correlation in the analysis at .73. The two seem to be driven by a confounding variable, state size. 
 
-[![Click to view Interactive Plot](Scatter_plot_1.png)](https://Ferry-17.github.io/Data-Center-Renewables-Exploration/outputs/figures/Scatter_plot_1.html)
-![Static Scatter plot 2](Data-Center-Renewables-Exploration/outputs/figures/Scatter_plot_2.png)
-[![Click to view Interactive Plot](Scatter_plot_3.png)](https://Ferry-17.github.io/Data-Center-Renewables-Exploration/outputs/figures/Scatter_plot_3.html)
-[![Click to view Interactive Plot](Scatter_plot_4.png)](https://Ferry-17.github.io/Data-Center-Renewables-Exploration/outputs/figures/Scatter_plot_4.html)
+[![Power Generation-Electricity Price-Water Withdrawal](Scatter_plot_1.png)](https://Ferry-17.github.io/Data-Center-Renewables-Exploration/outputs/figures/Scatter_plot_1.html)
+![Renewable Share-Electricity Price-Water Withdrawal](Data-Center-Renewables-Exploration/outputs/figures/Scatter_plot_2.png)
+[![Data Center Power Capacity- Water Withdrawals-Renewable Share](Scatter_plot_3.png)](https://Ferry-17.github.io/Data-Center-Renewables-Exploration/outputs/figures/Scatter_plot_3.html)
+[![Power Generation-Electricity Price-Data Center Power Capacity](Scatter_plot_4.png)](https://Ferry-17.github.io/Data-Center-Renewables-Exploration/outputs/figures/Scatter_plot_4.html)
+
+***More in-depth analysis with a correlation matrix can be seen in the plots.ipynb notebook***
 
 # Future work
 Get access to more data and apply the same workflow. Get geospatial data relating to the variables and create interactive maps showing the relationships between them on the grid. 
