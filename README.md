@@ -134,8 +134,8 @@ Do states with larger sample data center power capacity tend to have lower or hi
 Are states with larger electricity systems also the states with greater sample data center power capacity? Data Center power capacity and total generation do not have a strong correlation of .05. Electricty price and total power generation are the two variables with the strongest correlation in the analysis at .73. The two seem to be driven by a confounding variable, state size. 
 
 [![Power Generation-Electricity Price-Water Withdrawal](Scatter_plot_1.png)](https://Ferry-17.github.io/Data-Center-Renewables-Exploration/outputs/figures/Scatter_plot_1.html)
-![Renewable Share-Electricity Price-Water Withdrawal](Data-Center-Renewables-Exploration/outputs/figures/Scatter_plot_2.png)
-[![Data Center Power Capacity- Water Withdrawals-Renewable Share](Scatter_plot_3.png)](https://Ferry-17.github.io/Data-Center-Renewables-Exploration/outputs/figures/Scatter_plot_3.html)
+![Renewable Share-Electricity Price-Water Withdrawal](outputs/figures/Scatter_plot_2.png)
+[![Data Center Power Capacity- Water Withdrawal-Renewable Share](Scatter_plot_3.png)](https://Ferry-17.github.io/Data-Center-Renewables-Exploration/outputs/figures/Scatter_plot_3.html)
 [![Power Generation-Electricity Price-Data Center Power Capacity](Scatter_plot_4.png)](https://Ferry-17.github.io/Data-Center-Renewables-Exploration/outputs/figures/Scatter_plot_4.html)
 
 ***More in-depth analysis with a correlation matrix can be seen in the plots.ipynb notebook***
