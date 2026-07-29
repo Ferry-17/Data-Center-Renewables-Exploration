@@ -1,14 +1,10 @@
 
 
-# Data Center-Renewables Exploration
+# Data-Center-Renewables-Exploration
 
+![Alt text](images/Data_Center_image.jpeg) ![Alt text](images/renewables_image.jpeg)
 
-The project title should be concise and self-explanatory so that the user can easily remember your project.
-
-Add a cover banner to the top of your Readme to catch the attention of your readers.
-I usually include images that are relevant to my project, and you can easily find any image for free online without worrying about copyright issues. However, if the work is not free, make sure to credit the proper owners in the references/acknowledgement section.
-
-The colorful tiles beneath the title are known as badges, and they improve readability by providing quick insights into the github repository. I use [Shields IO](https://shields.io/). Depending on the project you can use the ones that are relevant. 
+ 
 
 # Project Overview
 
